@@ -1,0 +1,6 @@
+{
+  "name": "BioLearn CBC Uganda",
+  "description": "An interactive Biology learning and evaluation platform aligned with the NCDC Competence-Based Curriculum (CBC) for Ugandan secondary schools S1-S6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
